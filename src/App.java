@@ -8,6 +8,6 @@ public class App {
 		Logger spaced = new SpacedLogger();
 		spaced.Log("conichiwa");
 		spaced.Error("not enough sauce");
-		}
+		} 
 
 }
